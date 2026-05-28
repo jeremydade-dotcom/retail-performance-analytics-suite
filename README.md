@@ -20,19 +20,19 @@ This project was built to answer:
 
 ### KPI Overview Dashboard
 
-![KPI Dashboard](tableau/dashboard_screenshots/dashboard_1_kpis.png)
+![KPI Dashboard](tableau/dashboard_screenshots/Executive_Overview.png)
 
-### Regional Performance
+### Geographic Performance
 
-![Region Dashboard](tableau/dashboard_screenshots/dashboard_2_region.png)
+![Region Dashboard](tableau/dashboard_screenshots/Geographic_Performance.png)
 
-### Channel Performance
+### Product Performance
 
-![Channel Dashboard](tableau/dashboard_screenshots/dashboard_3_channel.png)
+![Channel Dashboard](tableau/dashboard_screenshots/Product_Performance.png)
 
-### Customer Segment Analysis
+### Pricing, Channel, Customer Segment Analysis
 
-![Segment Dashboard](tableau/dashboard_screenshots/dashboard_4_segment.png)
+![Segment Dashboard](tableau/dashboard_screenshots/Pricing_Channel_Customer_Analysis.png)
 
 ---
 
